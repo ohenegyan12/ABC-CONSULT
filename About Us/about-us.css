@@ -7270,3 +7270,17 @@ blockquote {
   min-height: 60vh;
   margin: 0 auto;
 }
+
+/* Make team member cards bigger */
+.wrap-person {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.wrap-person img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 12px;
+}
